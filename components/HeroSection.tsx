@@ -23,15 +23,15 @@ const HeroSection = () => {
         </div>
         <div className='fmd:mt-2 md:w-3/5'>
           <h1 className='text-2xl font-semibold md:text-5xl whitespace-nowrap'>
-            Hello, I'm{' '}
+            Hello, I'm&nbsp;
             <span className='font-semibold text-teal-600'>
               Amiel Brencis Salipande
             </span>
           </h1>
           <p className='text-lg font-semibold mt-4 mb-6 md:text-3xl text-center'>
-            An aspiring{' '}
+            An aspiring&nbsp;
             <span className='font-semibold text-teal-600'>
-              Software Developer{' '}
+              Software Developer
             </span>
           </p>
           <div className='flex justify-center'>
