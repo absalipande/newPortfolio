@@ -36,7 +36,7 @@ const HeroSection = () => {
           </p>
           <div className='flex justify-center'>
             <a
-              href='/Salipande_Amiel Brencis_resume.pdf'
+              href='/absalipande_resume.pdf'
               target='_blank'
               rel='noopener noreferrer'
               className='text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700 cursor-pointer'
