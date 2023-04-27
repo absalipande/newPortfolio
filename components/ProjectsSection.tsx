@@ -14,6 +14,14 @@ const projects = [
     link: 'https://absalipande.github.io/maze-game-js/',
   },
   {
+    name: 'PokeDex',
+    description:
+      'Just a simple PokeDex application made with HTML, CSS, and JavaScript.',
+    image: '/pokemon.png',
+    github: 'https://github.com/absalipande/newPokedex',
+    link: 'https://new-pokedex-chi.vercel.app/',
+  },
+  {
     name: 'User Management System',
     description:
       'Introducing a full-stack MERN application that securely stores user details in a database, seamlessly bridging the gap between the front-end and back-end.',
