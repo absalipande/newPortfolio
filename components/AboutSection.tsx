@@ -5,12 +5,12 @@ const skills = [
   { skill: 'JavaScript' },
   { skill: 'TypeScript' },
   { skill: 'C#' },
-  { skill: 'MongoDB' },
   { skill: 'ExpressJS' },
   { skill: 'ReactJS' },
   { skill: 'NodeJS' },
   { skill: 'NextJS' },
-  { skill: 'Agile Methodology' },
+  { skill: 'MongoDB' },
+  { skill: 'MySQL' },
   { skill: 'TailwindCSS' },
 ];
 

@@ -22,6 +22,13 @@ const projects = [
     link: 'https://new-pokedex-chi.vercel.app/',
   },
   {
+    name: 'Observers Notebook',
+    description: 'This is a Note-taking Application made using React.js.',
+    image: '/observers-notebook.jpg',
+    github: '',
+    link: 'https://observersnotebook.netlify.app/',
+  },
+  {
     name: 'User Management System',
     description:
       'Introducing a full-stack MERN application that securely stores user details in a database, seamlessly bridging the gap between the front-end and back-end.',
