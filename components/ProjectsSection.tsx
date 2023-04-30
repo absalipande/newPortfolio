@@ -6,11 +6,19 @@ import { BsGithub, BsArrowUpRightSquare } from 'react-icons/bs';
 
 const projects = [
   {
+    name: 'Online Portfolio',
+    description:
+      'This is an online portfolio that showcases my skills and achievements. It was created solely using HTML and CSS, and is my first project completed during the bootcamp. The portfolio provides a visually appealing and functional platform for me to present my work and share my story with others.',
+    image: '/web-portfolio.jpg',
+    github: 'https://github.com/absalipande/web-dev-portfolio',
+    link: 'https://absalipande.github.io/web-dev-portfolio/',
+  },
+  {
     name: 'Mazey Crazy',
     description:
       'Get ready to test your puzzle-solving skills in a thrilling JavaScript maze game that features two challenging maps and a surprising twist upon completion.',
     image: '/mazey-crazy.jpg',
-    github: 'https://github.com/hqasmei/thankful-thoughts',
+    github: 'https://github.com/absalipande/maze-game-js',
     link: 'https://absalipande.github.io/maze-game-js/',
   },
   {
