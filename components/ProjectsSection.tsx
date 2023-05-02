@@ -53,6 +53,14 @@ const projects = [
     link: 'https://proj6-fe.onrender.com/',
   },
   {
+    name: 'SQL + AI',
+    description:
+      'This is a web application that enables users to convert English language sentences into SQL queries using OpenAIs GPT-3.5 architecture and text completion API. The application consists of a client-side and server-side component, each with its own set of npm packages.',
+    image: '/sql-api.png',
+    github: 'https://github.com/absalipande/openAi-sql',
+    link: 'https://sql-ai-frontend.vercel.app/',
+  },
+  {
     name: 'Twitter Clone',
     description:
       'Twitter clone with TypeScript, Next.js, MongoDB, Prisma, NextAuth, and Tailwind',
