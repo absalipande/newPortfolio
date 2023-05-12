@@ -11,6 +11,7 @@ const skills = [
   { skill: 'Next.js' },
   { skill: 'MongoDB' },
   { skill: 'MySQL' },
+  { skill: 'Prisma' },
   { skill: 'TailwindCSS' },
 ];
 
