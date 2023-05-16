@@ -62,11 +62,18 @@ const projects = [
   },
   {
     name: 'PageTurner',
-    description:
-      'PageTurner: A Bookstore Website with an OpenAI Chatbot',
+    description: 'PageTurner: A Bookstore Website with an OpenAI Chatbot',
     image: '/pageturner.png',
     github: 'https://github.com/absalipande/chatbot-openai',
     link: 'https://pageturner-chatbot-ai.vercel.app/',
+  },
+  {
+    name: 'Chatty',
+    description:
+      'Chatty is a powerful and intuitive messenger application that offers a seamless real-time messaging experience.',
+    image: '/chatty.png',
+    github: 'https://github.com/absalipande/chatty',
+    link: 'https://chatty-gray.vercel.app/',
   },
   {
     name: 'Twitter Clone',
