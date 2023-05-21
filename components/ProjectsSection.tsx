@@ -61,6 +61,13 @@ const projects = [
     link: 'https://sql-and-ai-frontend.vercel.app/',
   },
   {
+    name: 'OpenAI Chatbot',
+    description:'This is a full-stack application that serves as a clone of ChatGPT, with a custom UI implementation. It allows users to have conversations with an AI-powered chatbot.',
+    image: '/openai-app.png',
+    github: 'https://github.com/absalipande/openai-app',
+    link: 'https://ai-frontend-app.vercel.app/',
+  },
+  {
     name: 'PageTurner',
     description: 'PageTurner: A Bookstore Website with an OpenAI Chatbot',
     image: '/pageturner.png',
