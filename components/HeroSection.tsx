@@ -12,7 +12,7 @@ const HeroSection = () => {
         className='flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 my-10 py-16 sm:py-32 md:py-48 md:flex-row md:space-x-4 md:text-left'
         style={{ marginTop: '10rem' }}
       >
-        <div className='md:mt-2 md:w-1/2'>
+        <div className='mt-3 md:mt-2 md:w-1/2'>
           <Image
             src='/coding.jpg'
             alt=''
@@ -21,20 +21,20 @@ const HeroSection = () => {
             className='rounded-full shadow-2xl'
           />
         </div>
-        <div className='mt-3md:mt-2 md:w-3/5'>
+        <div className='mt-3 md:mt-2 md:w-3/5'>
           <h1 className='text-2xl font-semibold md:text-5xl whitespace-nowrap'>
             Hello, I'm&nbsp;
             <span className='font-semibold text-teal-600'>
               Amiel Brencis Salipande
             </span>
           </h1>
-          <p className='text-lg font-semibold mt-4 mb-6 md:text-3xl text-center md:text-left md:ml-8'>
+          <p className='text-lg font-semibold mt-4 mb-6 md:text-3xl text-center'>
             An aspiring&nbsp;
             <span className='font-semibold text-teal-600'>
               Software Developer
             </span>
           </p>
-          <div className='flex justify-center md:justify-start'>
+          <div className='flex justify-center'>
             <a
               href='/Salipande_Amiel_Brencis_resume.pdf'
               target='_blank'
@@ -46,7 +46,6 @@ const HeroSection = () => {
           </div>
         </div>
       </div>
-
       <div className='flex flex-row items-center text-center justify-center '>
         <Link
           to='about'
