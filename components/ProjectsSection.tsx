@@ -8,7 +8,7 @@ const projects = [
   {
     name: 'Online Portfolio',
     description:
-      'This is an online portfolio that showcases my skills and achievements. It was created solely using HTML and CSS, and is my first project completed during the bootcamp. The portfolio provides a visually appealing and functional platform for me to present my work and share my story with others.',
+      'This is an online portfolio created solely using just HTML and CSS. It is my first project completed during the bootcamp.',
     image: '/web-portfolio.jpg',
     github: 'https://github.com/absalipande/web-dev-portfolio',
     link: 'https://absalipande.github.io/web-dev-portfolio/',
@@ -40,7 +40,7 @@ const projects = [
     name: 'User Management System',
     description:
       'Introducing a full-stack MERN application that securely stores user details in a database, seamlessly bridging the gap between the front-end and back-end.',
-    image: '/user-management-system.png',
+    image: '/mern-stack.png',
     github: 'https://github.com/absalipande/frontend',
     link: 'https://user-management-system-coral.vercel.app/',
   },
