@@ -53,6 +53,14 @@ const projects = [
     link: 'https://proj6-fe.onrender.com/',
   },
   {
+    name: 'Summar(AI)ze',
+    description:
+      'Summar(AI)ze is a powerful web application that utilizes OpenAIs GPT-4 model to provide concise summaries of articles',
+    image: '/summaraize-web.png',
+    github: 'https://github.com/absalipande/summaraize',
+    link: 'https://summaraize.vercel.app/',
+  },
+  {
     name: 'SQL + AI',
     description:
       'This is a web application that enables users to convert English language sentences into SQL queries using OpenAIs GPT-3.5 architecture and text completion API. The application consists of a client-side and server-side component, each with its own set of npm packages.',
@@ -62,7 +70,8 @@ const projects = [
   },
   {
     name: 'OpenAI Chatbot',
-    description:'This is a full-stack application that serves as a clone of ChatGPT, with a custom UI implementation. It allows users to have conversations with an AI-powered chatbot.',
+    description:
+      'This is a full-stack application that serves as a clone of ChatGPT, with a custom UI implementation. It allows users to have conversations with an AI-powered chatbot.',
     image: '/openai-app.png',
     github: 'https://github.com/absalipande/openai-app',
     link: 'https://ai-frontend-app.vercel.app/',
