@@ -84,30 +84,30 @@ const projects = [
     github: 'https://github.com/absalipande/chatty',
     link: 'https://chatty-gray.vercel.app/',
   },
-  {
-    name: 'Twitter Clone',
-    description:
-      'Twitter clone with TypeScript, Next.js, MongoDB, Prisma, NextAuth, and Tailwind',
-    image: '/twitter.png',
-    github: 'https://github.com/absalipande/twitter-clone-proj',
-    link: 'https://twitter-clone-proj.vercel.app/',
-  },
-  {
-    name: 'Netflix Clone',
-    description:
-      'Netflix clone with TypeScript, Next.js, MongoDB, Prisma, NextAuth, and Tailwind',
-    image: '/netflix.png',
-    github: 'https://github.com/absalipande/netflix-clone',
-    link: 'https://streaming-site-theta.vercel.app/',
-  },
-  {
-    name: 'Airbnb Clone',
-    description:
-      'Airbnb clone with TypeScript, Next.js, MongoDB, Prisma, NextAuth, and Tailwind',
-    image: '/airbnb.png',
-    github: 'https://github.com/absalipande/airbnb-clone',
-    link: 'https://booking-site-clone.vercel.app/',
-  },
+  // {
+  //   name: 'Twitter Clone',
+  //   description:
+  //     'Twitter clone with TypeScript, Next.js, MongoDB, Prisma, NextAuth, and Tailwind',
+  //   image: '/twitter.png',
+  //   github: 'https://github.com/absalipande/twitter-clone-proj',
+  //   link: 'https://twitter-clone-proj.vercel.app/',
+  // },
+  // {
+  //   name: 'Netflix Clone',
+  //   description:
+  //     'Netflix clone with TypeScript, Next.js, MongoDB, Prisma, NextAuth, and Tailwind',
+  //   image: '/netflix.png',
+  //   github: 'https://github.com/absalipande/netflix-clone',
+  //   link: 'https://streaming-site-theta.vercel.app/',
+  // },
+  // {
+  //   name: 'Airbnb Clone',
+  //   description:
+  //     'Airbnb clone with TypeScript, Next.js, MongoDB, Prisma, NextAuth, and Tailwind',
+  //   image: '/airbnb.png',
+  //   github: 'https://github.com/absalipande/airbnb-clone',
+  //   link: 'https://booking-site-clone.vercel.app/',
+  // },
 ];
 
 const ProjectsSection = () => {
