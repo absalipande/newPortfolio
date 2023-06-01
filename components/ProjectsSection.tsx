@@ -76,14 +76,14 @@ const projects = [
     github: 'https://github.com/absalipande/openai-app',
     link: 'https://ai-frontend-app.vercel.app/',
   },
-  {
-    name: 'Chatty',
-    description:
-      'Chatty is a powerful and intuitive messenger application that offers a seamless real-time messaging experience.',
-    image: '/chatty.png',
-    github: 'https://github.com/absalipande/chatty',
-    link: 'https://chatty-gray.vercel.app/',
-  },
+  // {
+  //   name: 'Chatty',
+  //   description:
+  //     'Chatty is a powerful and intuitive messenger application that offers a seamless real-time messaging experience.',
+  //   image: '/chatty.png',
+  //   github: 'https://github.com/absalipande/chatty',
+  //   link: 'https://chatty-gray.vercel.app/',
+  // },
   // {
   //   name: 'Twitter Clone',
   //   description:
