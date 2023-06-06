@@ -61,12 +61,12 @@ const projects = [
     link: 'https://summaraize.vercel.app/',
   },
   {
-    name: 'SQL + AI',
+    name: 'sql-ai',
     description:
       'This is a web application that enables users to convert English language sentences into SQL queries using OpenAIs GPT-3.5 architecture and text completion API. The application consists of a client-side and server-side component, each with its own set of npm packages.',
     image: '/sql-api.png',
-    github: 'https://github.com/absalipande/sql-and-openai',
-    link: 'https://sql-and-ai-frontend.vercel.app/',
+    github: 'https://github.com/absalipande/sqlAi',
+    link: 'https://sql-ai-frontend.vercel.app/',
   },
   {
     name: 'OpenAI Chatbot',
