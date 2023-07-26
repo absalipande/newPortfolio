@@ -39,7 +39,7 @@ const projects = [
   {
     name: 'User Management System',
     description:
-      'Introducing a full-stack MERN application that securely stores user details in a database, seamlessly bridging the gap between the front-end and back-end.',
+      'Introducing a full-stack MERN application that securely stores user details in a database.',
     image: '/mern-stack.png',
     github: 'https://github.com/absalipande/frontend',
     link: 'https://user-management-system-coral.vercel.app/',
@@ -47,7 +47,7 @@ const projects = [
   {
     name: 'Eatstagram',
     description:
-      'Eatstagram is a social media app that combines the best of Instagram and TikTok, with a focus on sharing and discovering food-related content through photos and videos.',
+      'Eatstagram is a social media app that focuses on sharing and discovering food-related content through photos and videos.',
     image: '/eatstagram.png',
     github: '',
     link: 'https://proj6-fe.onrender.com/',
@@ -63,18 +63,18 @@ const projects = [
   {
     name: 'sql-ai',
     description:
-      'This is a web application that enables users to convert English language sentences into SQL queries using OpenAIs GPT-3.5 architecture and text completion API. The application consists of a client-side and server-side component, each with its own set of npm packages.',
+      'This is a web application that enables users to convert English language sentences into SQL queries using OpenAIs GPT-3.5 architecture and text completion API.',
     image: '/sql-api.png',
     github: 'https://github.com/absalipande/sqlAi',
     link: 'https://sql-ai-frontend.vercel.app/',
   },
   {
-    name: 'Reddit Clone',
+    name: 'Illuminate',
     description:
-      'A modern Fullstack Reddit Clone built with TypeScript and Next.js',
-    image: '/reddit.png',
-    github: 'https://github.com/absalipande/reddify',
-    link: 'https://reddify.vercel.app/',
+      'Illuminate is an AI-powered SaaS that empowers users to effortlessly create diverse and captivating content. Unlock your creativity with the ability to generate conversations, code, images, music, and videos - all within a single innovative solution.',
+    image: '/illuminate.jpg',
+    github: 'https://github.com/absalipande/illuminate',
+    link: 'https://illuminate-six.vercel.app/',
   },
   // {
   //   name: 'Chatty',
