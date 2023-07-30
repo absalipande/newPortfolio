@@ -6,12 +6,44 @@ import { BsGithub, BsArrowUpRightSquare } from 'react-icons/bs';
 
 const projects = [
   {
-    name: 'Online Portfolio',
+    name: 'Summar(AI)ze',
     description:
-      'This is an online portfolio created solely using just HTML and CSS. It is my first project completed during the bootcamp.',
-    image: '/web-portfolio.jpg',
-    github: 'https://github.com/absalipande/web-dev-portfolio',
-    link: 'https://absalipande.github.io/web-dev-portfolio/',
+      'Summar(AI)ze is a powerful web application that utilizes OpenAIs GPT-4 model to provide concise summaries of articles',
+    image: '/summaraize-web.png',
+    github: 'https://github.com/absalipande/summaraize',
+    link: 'https://summaraize.vercel.app/',
+  },
+  {
+    name: 'sql-ai',
+    description:
+      'This is a web application that enables users to convert English language sentences into SQL queries using OpenAIs GPT-3.5 architecture and text completion API.',
+    image: '/sql-api.png',
+    github: 'https://github.com/absalipande/sqlAi',
+    link: 'https://sql-ai-frontend.vercel.app/',
+  },
+  {
+    name: 'Illuminate',
+    description:
+      'Illuminate is an AI-powered SaaS that empowers users to effortlessly create diverse and captivating content. Unlock your creativity with the ability to generate conversations, code, images, music, and videos - all within a single innovative solution.',
+    image: '/illuminate.jpg',
+    github: 'https://github.com/absalipande/illuminate',
+    link: 'https://illuminate-six.vercel.app/',
+  },
+  // {
+  //   name: 'Online Portfolio',
+  //   description:
+  //     'This is an online portfolio created solely using just HTML and CSS. It is my first project completed during the bootcamp.',
+  //   image: '/web-portfolio.jpg',
+  //   github: 'https://github.com/absalipande/web-dev-portfolio',
+  //   link: 'https://absalipande.github.io/web-dev-portfolio/',
+  // },
+  {
+    name: 'User Management System',
+    description:
+      'Introducing a full-stack MERN application that securely stores user details in a database.',
+    image: '/mern-stack.png',
+    github: 'https://github.com/absalipande/frontend',
+    link: 'https://user-management-system-coral.vercel.app/',
   },
   {
     name: 'Mazey Crazy',
@@ -36,46 +68,14 @@ const projects = [
     github: '',
     link: 'https://observersnotebook.netlify.app/',
   },
-  {
-    name: 'User Management System',
-    description:
-      'Introducing a full-stack MERN application that securely stores user details in a database.',
-    image: '/mern-stack.png',
-    github: 'https://github.com/absalipande/frontend',
-    link: 'https://user-management-system-coral.vercel.app/',
-  },
-  {
-    name: 'Eatstagram',
-    description:
-      'Eatstagram is a social media app that focuses on sharing and discovering food-related content through photos and videos.',
-    image: '/eatstagram.png',
-    github: '',
-    link: 'https://proj6-fe.onrender.com/',
-  },
-  {
-    name: 'Summar(AI)ze',
-    description:
-      'Summar(AI)ze is a powerful web application that utilizes OpenAIs GPT-4 model to provide concise summaries of articles',
-    image: '/summaraize-web.png',
-    github: 'https://github.com/absalipande/summaraize',
-    link: 'https://summaraize.vercel.app/',
-  },
-  {
-    name: 'sql-ai',
-    description:
-      'This is a web application that enables users to convert English language sentences into SQL queries using OpenAIs GPT-3.5 architecture and text completion API.',
-    image: '/sql-api.png',
-    github: 'https://github.com/absalipande/sqlAi',
-    link: 'https://sql-ai-frontend.vercel.app/',
-  },
-  {
-    name: 'Illuminate',
-    description:
-      'Illuminate is an AI-powered SaaS that empowers users to effortlessly create diverse and captivating content. Unlock your creativity with the ability to generate conversations, code, images, music, and videos - all within a single innovative solution.',
-    image: '/illuminate.jpg',
-    github: 'https://github.com/absalipande/illuminate',
-    link: 'https://illuminate-six.vercel.app/',
-  },
+  // {
+  //   name: 'Eatstagram',
+  //   description:
+  //     'Eatstagram is a social media app that focuses on sharing and discovering food-related content through photos and videos.',
+  //   image: '/eatstagram.png',
+  //   github: '',
+  //   link: 'https://proj6-fe.onrender.com/',
+  // },
   // {
   //   name: 'Chatty',
   //   description:
