@@ -40,10 +40,10 @@ const projects = [
   {
     name: 'User Management System',
     description:
-      'Introducing a full-stack MERN application that securely stores user details in a database.',
-    image: '/mern-stack.png',
-    github: 'https://github.com/absalipande/frontend',
-    link: 'https://user-management-system-coral.vercel.app/',
+      'This web application is a CRUD (Create, Read, Update, Delete) app built with the MERN stack (MongoDB, Express, React, and Node.js) and TypeScript.',
+    image: '/crudMern.jpg',
+    github: 'https://github.com/absalipande/crudMern',
+    link: 'https://crud-mern-khaki.vercel.app/',
   },
   {
     name: 'Mazey Crazy',
